@@ -1,4 +1,4 @@
-package diamete;
+package diameter;
 
 public class diameter {
   public static void printArea(double diameter) {
